@@ -1,24 +1,16 @@
-import logo from './logo.svg';
-import './App.css';
+import React from 'react';
+import {Route, Switch } from 'react-router-dom';
+import LandingPage from './LandingPage/LandingPage';
+import BookMarketplacePage from './BookMarketplacePage/BookMarketplacePage';
+import PoemSubmissionPage from './PoemSubmissionPage/PoemSubmissionPage';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+      <Switch>
+        <Route exact path="/" component={LandingPage} />
+        <Route path="/marketplace" component={BookMarketplacePage} />
+        <Route path="/submit-poem" component={PoemSubmissionPage} />
+      </Switch>
   );
 }
 
