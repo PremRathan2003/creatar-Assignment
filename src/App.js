@@ -1,6 +1,6 @@
 import React from 'react';
 import {Route, Switch } from 'react-router-dom';
-import LandingPage from './LandingPage/LandingPage';
+import LandingPage from './components/LandingPage/LandingPage';
 import BookMarketplacePage from './BookMarketplacePage/BookMarketplacePage';
 import PoemSubmissionPage from './PoemSubmissionPage/PoemSubmissionPage';
 
