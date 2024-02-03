@@ -1,8 +1,8 @@
 {
   "name": "book-company",
   "version": "0.1.0",
-  "homepage": "https://PremRathan2003.github.io/book-company",
-  "private": true,
+  "homepage": "https://github.com/PremRathan2003/books_store_Creatar-",
+  "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
