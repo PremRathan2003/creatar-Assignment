@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PremRathan2003/creatar-Assignment/static/css/main.828b206b.css",
-    "main.js": "/PremRathan2003/creatar-Assignment/static/js/main.c13a17fb.js",
-    "static/js/592.dd7ac1ba.chunk.js": "/PremRathan2003/creatar-Assignment/static/js/592.dd7ac1ba.chunk.js",
-    "index.html": "/PremRathan2003/creatar-Assignment/index.html",
-    "main.828b206b.css.map": "/PremRathan2003/creatar-Assignment/static/css/main.828b206b.css.map",
-    "main.c13a17fb.js.map": "/PremRathan2003/creatar-Assignment/static/js/main.c13a17fb.js.map",
-    "592.dd7ac1ba.chunk.js.map": "/PremRathan2003/creatar-Assignment/static/js/592.dd7ac1ba.chunk.js.map"
+    "main.css": "/creatar-Assignment/static/css/main.828b206b.css",
+    "main.js": "/creatar-Assignment/static/js/main.65a3b9fe.js",
+    "static/js/592.dd7ac1ba.chunk.js": "/creatar-Assignment/static/js/592.dd7ac1ba.chunk.js",
+    "index.html": "/creatar-Assignment/index.html",
+    "main.828b206b.css.map": "/creatar-Assignment/static/css/main.828b206b.css.map",
+    "main.65a3b9fe.js.map": "/creatar-Assignment/static/js/main.65a3b9fe.js.map",
+    "592.dd7ac1ba.chunk.js.map": "/creatar-Assignment/static/js/592.dd7ac1ba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.828b206b.css",
-    "static/js/main.c13a17fb.js"
+    "static/js/main.65a3b9fe.js"
   ]
 }
